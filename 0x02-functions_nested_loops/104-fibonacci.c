@@ -8,11 +8,13 @@
  */
 int main(void)
 {
-	unsigned long i;
 	unsigned long int f1 = 1;
 	unsigned long int f2 = 2;
 	unsigned long int next_f;
 
+	
+	unsigned long int i;
+	
 	printf("%lu, %lu, ", f1, f2);
 	for (int i = 3; i <= 98; i++)
 	{
