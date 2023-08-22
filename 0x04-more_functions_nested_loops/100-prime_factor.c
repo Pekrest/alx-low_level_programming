@@ -32,6 +32,7 @@ int main(void)
 	if (a > 2)
 	max = a;
 	printf("%ld\a", max);
+	printf("\n");
 	return (0);
 }
 
