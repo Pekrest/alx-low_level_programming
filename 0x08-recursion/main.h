@@ -11,3 +11,4 @@ int main_prime_number(int x, int y);
 int is_palindrome(char *s);
 int fnd_palindrome(char *s, int lgth, int y);
 int str_lgth_recursion(char *s);
+int wildcmp(char *s1, char *s2);
